@@ -1,0 +1,20 @@
+{
+    "name": "morteza/shop",
+    "description": "bot shoping",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morteza1615",
+            "email": "mori13796@gmail.com"
+        }
+    ],
+    "autoload":{
+        "classmap" :[
+            "elegant/"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {
+    }
+
+}
